@@ -1,0 +1,15 @@
+h4 {
+    color: midnightblue;
+    font-family: fantasy;
+    
+}
+
+span{
+    color: midnightblue;
+}
+
+.Counters {
+    height: 4;
+    font: outline;
+    font-family: 'Courier New', Courier, monospace;
+}
